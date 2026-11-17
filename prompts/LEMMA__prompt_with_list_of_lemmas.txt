@@ -1,0 +1,3 @@
+Hello, my language model friend! Here's a list of Slovene verbs in their basic form. You are an expert in Slovene lexicography and your task is to determine whether these are legitimate verb forms or misspellings/nonstandard word forms. Return just the list as a table in the following format: <original lemma> | <correct lemma> | <insert 'legitimate' or 'not legitimate'. Thanks in advance for your help!
+
+f"{list_of_verbs}"

@@ -1,0 +1,3 @@
+Please take on the role of a lexicographer with native knowledge of Slovene. You are helping me determine the aspect of Slovene verbs for the Digital Dictionary Database of Slovene. I will provide you with a list of verbs in their basic form. Your task is to determine whether this verb is perfective, imperfective, or biaspectual. Return only the response in the following tabular format: |lemma|aspect|
+
+f"{list_of_verbs}"
